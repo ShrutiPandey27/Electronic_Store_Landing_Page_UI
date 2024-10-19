@@ -1,0 +1,8 @@
+body{
+    display: flex;
+    margin: 0;
+    background-color: rgb(228, 228, 228);
+}
+.videos{
+    display: flex;
+}
