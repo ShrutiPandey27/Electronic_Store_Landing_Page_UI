@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Electronic_Store_Landing_Page_UI/static/css/main.304c54c9.css",
+    "main.js": "/Electronic_Store_Landing_Page_UI/static/js/main.0e09ea30.js",
+    "index.html": "/Electronic_Store_Landing_Page_UI/index.html",
+    "main.304c54c9.css.map": "/Electronic_Store_Landing_Page_UI/static/css/main.304c54c9.css.map",
+    "main.0e09ea30.js.map": "/Electronic_Store_Landing_Page_UI/static/js/main.0e09ea30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.304c54c9.css",
+    "static/js/main.0e09ea30.js"
+  ]
+}
